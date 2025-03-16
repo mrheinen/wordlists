@@ -16,4 +16,4 @@ there own servce.
 
 This list is compiled from 8.7 million bruteforce requests seen by honeypots
 during 2024. There are 1.1 million unique credentials and in total we say 161
-thousant unique usernames and 466 thousand unique passwords.
+thousand unique usernames and 466 thousand unique passwords.
